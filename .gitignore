@@ -1,0 +1,9 @@
+*.cache
+*.dll
+*.pdb
+.idea/*
+bin/
+.vs/
+.idea/
+bin/
+obj/
